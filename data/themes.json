@@ -1,0 +1,13 @@
+{
+  "name": "themes",
+  "children": [
+    {
+      "name": "Cloud Access Security Broker",
+      "children": [
+        {
+          "name": "Cloud Access Security Broker Foo"
+        }
+      ]
+    }
+  ]
+}
